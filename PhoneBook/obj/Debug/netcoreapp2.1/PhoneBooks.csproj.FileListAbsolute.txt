@@ -1,0 +1,10 @@
+D:\Prog_C#\homework-theme-20\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBooks.deps.json
+D:\Prog_C#\homework-theme-20\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBooks.dll
+D:\Prog_C#\homework-theme-20\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBooks.pdb
+D:\Prog_C#\homework-theme-20\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBooks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog_C#\homework-theme-20\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBooks.AssemblyInfoInputs.cache
+D:\Prog_C#\homework-theme-20\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBooks.AssemblyInfo.cs
+D:\Prog_C#\homework-theme-20\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBooks.csproj.CoreCompileInputs.cache
+D:\Prog_C#\homework-theme-20\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBooks.dll
+D:\Prog_C#\homework-theme-20\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBooks.pdb
+D:\Prog_C#\homework-theme-20\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBooks.csproj.AssemblyReference.cache

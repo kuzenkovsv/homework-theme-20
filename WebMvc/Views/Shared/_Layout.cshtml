@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        @RenderBody()
+        <footer>
+            <p>Сегодня: @Model.Dayname</p>
+            <p>Copyright &copy; 2022 - @ViewBag.Title</p>
+        </footer>
+    </div>
+</body>
+</html>

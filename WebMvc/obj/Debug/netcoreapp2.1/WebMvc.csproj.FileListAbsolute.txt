@@ -1,0 +1,68 @@
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.deps.json
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.runtimeconfig.json
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.runtimeconfig.dev.json
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.dll
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.pdb
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.Views.dll
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.Views.pdb
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.csproj.AssemblyReference.cache
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.AssemblyInfoInputs.cache
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.AssemblyInfo.cs
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.csproj.CoreCompileInputs.cache
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorAssemblyInfo.cache
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorAssemblyInfo.cs
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.TagHelpers.input.cache
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.TagHelpers.output.cache
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorCoreGenerate.cache
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorTargetAssemblyInfo.cache
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorTargetAssemblyInfo.cs
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.Views.pdb
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.dll
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.pdb
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.genruntimeconfig.cache
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.csproj.CopyComplete
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\PhoneBooks.dll
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\PhoneBooks.pdb
+D:\Prog_C#\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\phoneBook.json
+D:\Prog_C#\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContactDetail.cshtml.g.cs
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\phoneBook.json
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.deps.json
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.runtimeconfig.json
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.runtimeconfig.dev.json
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.dll
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.pdb
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.Views.dll
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\WebMvc.Views.pdb
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\PhoneBooks.dll
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\bin\Debug\netcoreapp2.1\PhoneBooks.pdb
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.csproj.AssemblyReference.cache
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.AssemblyInfoInputs.cache
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.AssemblyInfo.cs
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.csproj.CoreCompileInputs.cache
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorAssemblyInfo.cache
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorAssemblyInfo.cs
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.TagHelpers.input.cache
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.TagHelpers.output.cache
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorCoreGenerate.cache
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\ContactDetail.cshtml.g.cs
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorTargetAssemblyInfo.cache
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.RazorTargetAssemblyInfo.cs
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.Views.pdb
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.csproj.CopyComplete
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.dll
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.pdb
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\WebMvc.genruntimeconfig.cache
+D:\Библиотека\skillbox\Обучение\1. C#\20. ASP.NET Core. Часть 1\homework-theme-20\WebMvc\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs

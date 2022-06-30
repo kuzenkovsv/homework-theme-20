@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <style>
+        body {
+            background-color: turquoise;
+        }
+
+        .HeaderText {
+            color: white;
+        }
+
+        .OddString {
+            background-color: GreenYellow;
+        }
+
+        .EvenString {
+            background-color: LawnGreen;
+        }
+
+        button {
+            border-radius: 5px;
+            background-color: mediumorchid;
+            cursor: pointer;
+            border-color: inherit;
+        }
+
+        tr {
+            height: 50px;
+        }
+
+        th {
+            width: 30%;
+        }
+
+        .thId {
+            width: 10%;
+        }
+    </style>
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        @RenderBody()
+        <footer>
+            <p>Сегодня: @Model.Dayname</p>
+            <p>Copyright &copy; 2022 - @ViewBag.Title</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+{
+  "$type": "PhoneBooks.PhoneBook, PhoneBooks",
+  "OwnerPhoneBook": "Какого-то человека",
+  "Contacts": {
+    "$type": "System.Collections.Generic.List`1[[PhoneBooks.Contact, PhoneBooks]], System.Private.CoreLib",
+    "$values": [
+      {
+        "$type": "PhoneBooks.Contact, PhoneBooks",
+        "Id": 3501,
+        "Surname": "Фамилия-1",
+        "Name": "Имя-1",
+        "MiddleName": "Отчество-1",
+        "PhoneNumber": "89142220001",
+        "Address": "г. Воронеж, ул. Лызина, дом1",
+        "Description": "Описание-1"
+      },
+      {
+        "$type": "PhoneBooks.Contact, PhoneBooks",
+        "Id": 3502,
+        "Surname": "Фамилия-2",
+        "Name": "Имя-2",
+        "MiddleName": "Отчество-2",
+        "PhoneNumber": "89142220002",
+        "Address": "г. Воронеж, ул. Лызина, дом2",
+        "Description": "Описание-2"
+      },
+      {
+        "$type": "PhoneBooks.Contact, PhoneBooks",
+        "Id": 3503,
+        "Surname": "Фамилия-3",
+        "Name": "Имя-3",
+        "MiddleName": "Отчество-3",
+        "PhoneNumber": "89142220003",
+        "Address": "г. Воронеж, ул. Лызина, дом3",
+        "Description": "Описание-3"
+      },
+      {
+        "$type": "PhoneBooks.Contact, PhoneBooks",
+        "Id": 3504,
+        "Surname": "Фамилия-4",
+        "Name": "Имя-4",
+        "MiddleName": "Отчество-4",
+        "PhoneNumber": "89142220004",
+        "Address": "г. Воронеж, ул. Лызина, дом4",
+        "Description": "Описание-4"
+      },
+      {
+        "$type": "PhoneBooks.Contact, PhoneBooks",
+        "Id": 3505,
+        "Surname": "Фамилия-5",
+        "Name": "Имя-5",
+        "MiddleName": "Отчество-5",
+        "PhoneNumber": "89142220005",
+        "Address": "г. Воронеж, ул. Лызина, дом5",
+        "Description": "Описание-5"
+      },
+      {
+        "$type": "PhoneBooks.Contact, PhoneBooks",
+        "Id": 3506,
+        "Surname": "Фамилия-6",
+        "Name": "Имя-6",
+        "MiddleName": "Отчество-6",
+        "PhoneNumber": "89142220006",
+        "Address": "г. Воронеж, ул. Лызина, дом6",
+        "Description": "Описание-6"
+      },
+      {
+        "$type": "PhoneBooks.Contact, PhoneBooks",
+        "Id": 3507,
+        "Surname": "Фамилия-7",
+        "Name": "Имя-7",
+        "MiddleName": "Отчество-7",
+        "PhoneNumber": "89142220007",
+        "Address": "г. Воронеж, ул. Лызина, дом7",
+        "Description": "Описание-7"
+      }
+    ]
+  }
+}

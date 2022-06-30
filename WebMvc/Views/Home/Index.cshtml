@@ -1,0 +1,48 @@
+﻿@model WebMvc.Models.HomeIndexViewModel
+@{
+    ViewData["Title"] = "Информация телефонной книжки";
+}
+<h2 align="center">Телефонная книжка: @Model.phoneBook.OwnerPhoneBook</h2>
+
+<table border="1" cellspacing="0" cellpadding="5" width="100%">
+    <tr bgcolor="Black" class="HeaderText">
+        <th class="thId">Id контакта</th>
+        <th>Фамилия</th>
+        <th>Имя</th>
+        <th>Отчество</th>
+    </tr>
+    @foreach (var item in Model.phoneBook.Contacts)
+    {
+        if (item.Id % 2 == 0)
+        {
+            <tr class="EvenString">
+                <td align="center">
+                    <a asp-controller="Home"
+                       asp-action="ContactDetail"
+                       asp-route-id="@item.Id">
+                        <input class="button" type="button" value="@item.Id" />
+                    </a>
+                </td>
+                <td>@item.MiddleName</td>
+                <td>@item.Name</td>
+                <td>@item.Surname</td>
+            </tr>
+        }
+        else
+        {
+            <tr class="OddString">
+                <td align="center">
+                    <a asp-controller="Home"
+                       asp-action="ContactDetail"
+                       asp-route-id="@item.Id">
+                       <input class="button" type="button" value="@item.Id"/>
+                    </a>
+                </td>
+                <td>@item.MiddleName</td>
+                <td>@item.Name</td>
+                <td>@item.Surname</td>
+            </tr>
+        }
+    }
+
+</table>
